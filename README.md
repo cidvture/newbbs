@@ -1,1 +1,1 @@
-# newbbs
+newbbs
